@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "0f1684ac-cad0-4691-8fdd-bac4e93bfd76",
+    "name": "Gayle Kling",
+    "phone": "542-444-9064 x292",
+    "email": "Zena.Barton@hotmail.com",
+    "job": "Human Web Administrator"
+  },
+  {
+    "id": "9ec21088-1926-42e7-a102-75d8eb4e411a",
+    "name": "Virginia Prosacco",
+    "phone": "681-730-7309",
+    "email": "Lisette_Grady45@hotmail.com",
+    "job": "Human Metrics Representative"
+  },
+  {
+    "id": "792077ba-55fa-4654-826c-820718a5b426",
+    "name": "Marcus Daniel",
+    "phone": "1-491-647-6730 x559",
+    "email": "Claudine.Treutel24@yahoo.com",
+    "job": "Internal Accounts Orchestrator"
+  },
+  {
+    "id": "d3a3d882-faca-4db5-bd5e-0b0471ba5486",
+    "name": "Dr. Celia Kautzer DDS",
+    "phone": "1-592-359-8600 x250",
+    "email": "Bennie20@gmail.com",
+    "job": "Forward Implementation Executive"
+  },
+  {
+    "id": "8ec381f6-4d96-4f0a-8f42-7cda92ac7049",
+    "name": "Cora Trantow",
+    "phone": "1-655-641-3980 x204",
+    "email": "Jeromy.Schroeder@yahoo.com",
+    "job": "Internal Optimization Architect"
+  }
+]
